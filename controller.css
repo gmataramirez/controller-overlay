@@ -2,6 +2,10 @@
 	display: none;
 }
 
+.controller.xbox {
+	background: none !important;
+}
+
 .stick {
 	top: 20px;
 	left: 335px;
