@@ -9,4 +9,12 @@
 .xbox .sticks {
 	top: 20px !important;
 	left: 335px !important;
+	width: 83px !important;
+    height: 83px !important;
+    border-radius: 50% !important;
+    border: 1px solid #444444 !important;
+}
+
+.xbox .stick.left {
+	opacity: 
 }
