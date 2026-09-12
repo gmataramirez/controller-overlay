@@ -1,0 +1,8 @@
+.abxy, .arrows, .stick.right, .dpad, .bumpers {
+	display: none;
+}
+
+.stick {
+	top: 20px;
+	left: 335px;
+}
