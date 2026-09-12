@@ -1,12 +1,12 @@
 .abxy, .arrows, .stick.right, .dpad, .bumpers {
-	display: none;
+	display: none !important;
 }
 
-.controller.xbox {
+.controller.xbox.active {
 	background: none !important;
 }
 
-.sticks {
-	top: 20px;
-	left: 335px;
+.xbox .sticks {
+	top: 20px !important;
+	left: 335px !important;
 }
