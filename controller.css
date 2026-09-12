@@ -7,7 +7,7 @@
 }
 
 .xbox .sticks {
-	top: 20px !important;
+	top: 0px !important;
 	left: 335px !important;
 	width: 83px !important;
     height: 83px !important;
@@ -17,4 +17,10 @@
 
 .xbox .stick.left {
 	opacity: 
+}
+
+.xbox .trigger {
+    width: 68px !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
 }
